@@ -1,0 +1,10 @@
+what is fastapi?
+REST api - standard for api (web series) dev
+Python : Django , flask
+python has asyncio
+nodeJS has libuv -> event loop
+starlette uvloop sits on libuv
+fastapi:starlette (web development framework),pydantic (data validation and serialisation)
+    -ASGI based web dev framework
+        Asynchronous serevr Gateway interface
+uvicorn runs the fastapi (starlette) app
